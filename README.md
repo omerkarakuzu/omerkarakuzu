@@ -13,7 +13,6 @@
 <a href="https://app.patika.dev/omerkarakuzu" target="blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/63739a32259566fc9428cb1d_Deneme-p-500.png" alt="omerkarakuzu" height="30" width="40" /></a>
 <a href="https://instagram.com/o.karakuzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o.karakuzu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omerkarakuzu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/omerkarakuzu4" height="30" width="40" /></a>
-<a href="https://twitter.com/yamasito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamasito" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
