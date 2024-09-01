@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Karakuzu</h1>
-<h3 align="center">Front-End Developer from Türkiye.</h3>
+<h3 align="center">Software Developer from Türkiye.</h3>
 
-- 🌱 I’m currently learning **React, Dart, C#, Sql**
+- 🌱 I’m currently learning **React, NodeJS, NodRed, AngularJS, React Native**
 
 - 📫 How to reach me **omerkarakuzu4@gmail.com**
 
