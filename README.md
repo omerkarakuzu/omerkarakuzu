@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Karakuzu</h1>
 <h3 align="center">Software Developer from Türkiye.</h3>
 
-- 🌱 I’m currently learning **React, NodeJS, NodRed, AngularJS, React Native**
+- 🌱 I’m currently learning **React, NodeJS, NodeRed, AngularJS, React Native**
 
 - 📫 How to reach me **omerkarakuzu4@gmail.com**
 
