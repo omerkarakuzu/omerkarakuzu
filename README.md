@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ömer Karakuzu</h1>
-<h3 align="center">Software Developer from Türkiye.</h3>
+<h1 align="center">Hi 👋, I'm Ömer</h1>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **React, NodeJS, NodeRed, AngularJS, React Native**
 
